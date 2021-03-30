@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Engineer student at ENSTA-Paris
